@@ -26,7 +26,8 @@ and support. They would be difficult enough to navigate if they were all
 mapped, marked and signed to perfection. 
 My metaphorical call to arms, flogged though it may be, is this: 
 we may never be rid of all these pedogical potholes and speedbumps, but 
-good lord, people, we can at least post some signs.
+good lord, people, we can at least post some signs. I also promise that
+this is the last reference to this particular metaphor.
 
 We will call our five villains by these names:
 
