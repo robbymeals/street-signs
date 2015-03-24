@@ -28,8 +28,10 @@ My metaphorical call to arms, flogged though it may be, is this:
 we may never be rid of all these pedogical potholes and speedbumps, but 
 good lord, people, we can at least post some signs.
 
-    1. Confounders: same or similar name, completely unrelated 
-    1. Rabbit Holes: same name, uselessly or tangentially related
-    1. Hoodwinks: completely different names, same thing or highly related
-    1. Chimeras: when two sets of terminology and notation ARE unified, badly
-    1. Gotchas: any terminology needlessly confusing for any other reason 
+We will call our five villains by these names:
+
+1. Confounders: same or similar words, completely unrelated 
+1. Rabbit Holes: same words, uselessly or tangentially related
+1. Hoodwinks: completely different words, same thing or highly related
+1. Chimeras: when two sets of terminology and notation ARE badly unified 
+1. Gotchas: any terminology needlessly confusing for any other reason 
