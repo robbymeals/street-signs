@@ -34,4 +34,10 @@ We will call our five villains by these names:
 1. Rabbit Holes: same words, uselessly or tangentially related
 1. Hoodwinks: completely different words, same thing or highly related
 1. Chimeras: when two sets of terminology and notation ARE badly unified 
-1. Gotchas: any terminology needlessly confusing for any other reason 
+1. Left Fields: common notation or terminology that just comes out of nowhere 
+
+As my collection of these evil little bastards grows, I may do something a bit
+more presentable with them. I have a vague vision of a tiny little orange 
+reference book that can be handed to people emerging from their disciplinary
+silos, when they first ask what the difference is between a logistic 
+regression and a maxent classifier.
