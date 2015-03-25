@@ -1,12 +1,15 @@
 # Street Signs:
-### Helping You Avoid the Hazards on The Road to Knowledge
+### Helping You Avoid the Hazards on The Roads to Machine Learning Knowledge
 
-"No, no. Same words, completely unrelated."
+"Ah. No, no. Same words, completely unrelated."
 
-"You're going to want to just forget the original meaning of that word for now."
+"You're going to want to just forget the original meaning of that word 
+for now."
 
 "Yes, actually. There IS a very interesting explanation why those things share
-the same name. You see, in 1947, in the deepest, darkest basements of MIT..." 
+the same name. You see, on May 7th, 1932, Claude Shannon and R. A. Fisher
+were playing a game of their own invention, the rules of which were
+loosely based on chess but far more complicated, when..." 
 
 "Oh, right, sorry. Yep, those five things with six different names are 
 actually all just the one exact same thing. I thought someone had told you."
@@ -21,24 +24,29 @@ complexity with simple, intuitive explanations that reduce the cognitive
 load of acquiring knowledge in these here intellectual parts, supplemented
 with detailed, obsessive explanations for the insatiable and the bad-at-parties.
 
-More and more people are travelling on the roads between these disciplines,
+We will call our villains by these names:
+
+1. Dead Ends: same or similar words, completely unrelated 
+1. Winding Roads: same words, uselessly or tangentially related
+1. Roundabouts: completely different words, same thing or highly related
+1. Lane Mergers: when two sets of terminology and notation are badly or 
+   inconsistently unified 
+1. Falling Rocks: common notation or terminology that just seems to comes out 
+   of nowhere 
+
+As our collection of these evil little bastards grows, we may do something a bit
+more presentable with them. There exists a vague vision of a tiny little orange 
+reference book that can be handed to people embarking on their journey
+or  emerging from their disciplinary silos, 
+when, for instance, they first ask what the difference is between a logistic 
+regression and a maxent classifier.
+
+In summary: More and more people are travelling on the roads 
+towards and between these disciplines,
 starting off with varying degrees of foundational knowledge, self-confidence
-and support. They would be difficult enough to navigate if they were all 
-mapped, marked and signed to perfection. 
+and support. These travelers would encounter more than enough difficulty 
+navigating if all their routes were mapped, marked and signed to perfection. 
 My metaphorical call to arms, flogged though it may be, is this: 
 we may never be rid of all these pedogical hazards entirely, but 
 good lord, people, we can at least post some signs.
 
-We will call our villains by these names:
-
-1. Dead End: same or similar words, completely unrelated 
-1. Winding Road: same words, uselessly or tangentially related
-1. Roundabout: completely different words, same thing or highly related
-1. Lanes Merge: when two sets of terminology and notation ARE badly unified 
-1. Falling Rocks: common notation or terminology that just seems to comes out of nowhere 
-
-As my collection of these evil little bastards grows, I may do something a bit
-more presentable with them. I have a vague vision of a tiny little orange 
-reference book that can be handed to people emerging from their disciplinary
-silos, when they first ask what the difference is between a logistic 
-regression and a maxent classifier.
