@@ -24,8 +24,7 @@ The goal herein is to attack some specific types of needless, harmful
 complexity with simple, intuitive explanations that reduce the cognitive 
 load of acquiring knowledge in these here intellectual parts, supplemented
 with detailed, obsessive explanations for the insatiable and the bad-at-parties.
-
-We will call our villains by these names:
+So far, we have examples in these broadly defined areas:
 
 1. [Dead Ends](1-Dead_Ends/0-README.md): same or similar words, completely unrelated 
 1. [Winding Roads](2-Winding_Roads/0-README.md): same words, uselessly or tangentially related
