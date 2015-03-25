@@ -26,12 +26,12 @@ with detailed, obsessive explanations for the insatiable and the bad-at-parties.
 
 We will call our villains by these names:
 
-1. Dead Ends: same or similar words, completely unrelated 
-1. Winding Roads: same words, uselessly or tangentially related
-1. Roundabouts: completely different words, same thing or highly related
-1. Lane Mergers: when two sets of terminology and notation are badly or 
+1. [Dead Ends](1-Dead_Ends/0-README.md): same or similar words, completely unrelated 
+1. [Winding Roads](2-Winding_Roads/0-README.md): same words, uselessly or tangentially related
+1. [Roundabouts](3-Roundabouts/0-README.md): completely different words, same thing or highly related
+1. [Lane Mergers](4-Lane_Mergers/0-README.md): when two sets of terminology and notation are badly or 
    inconsistently unified 
-1. Falling Rocks: common notation or terminology that just seems to comes out 
+1. [Falling Rocks](Falling_Rocks/0-README.md): common notation or terminology that just seems to comes out 
    of nowhere 
 
 As our collection of these evil little bastards grows, we may do something a bit
