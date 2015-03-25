@@ -1,4 +1,5 @@
-# Finally Putting a Little Damn Signage on The Road to Knowledge
+# Street Signs:
+### Helping You Avoid the Hazards on The Road to Knowledge
 
 "No, no. Same words, completely unrelated."
 
