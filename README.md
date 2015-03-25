@@ -1,6 +1,6 @@
 # Street Signs:
-### Helping You Avoid the Hazards 
-### on The Roads to Machine Learning Knowledge
+### Helping You Avoid the Hazards <br> on The Roads to Machine Learning Knowledge
+<hr>
 
 "Ah. No, no. Same words, completely unrelated."
 
