@@ -25,7 +25,7 @@ starting off with varying degrees of foundational knowledge, self-confidence
 and support. They would be difficult enough to navigate if they were all 
 mapped, marked and signed to perfection. 
 My metaphorical call to arms, flogged though it may be, is this: 
-we may never be rid of all these pedogical hazards, but 
+we may never be rid of all these pedogical hazards entirely, but 
 good lord, people, we can at least post some signs.
 
 We will call our villains by these names:
