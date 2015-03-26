@@ -9,21 +9,24 @@ for now."
 
 "Yes, actually. There IS a very interesting explanation why those things share
 the same name. You see, on May 7th, 1932, Claude Shannon and R. A. Fisher
-were playing a game of their own invention, the rules of which were
-loosely based on chess but far more complicated, when..." 
+were playing a game of their own invention, loosely based on chess but 
+far more complicated, when..." 
 
-"Oh, right, sorry. Yep, those five things with six different names are 
+"Oh. Right. Sorry. Yes, those five things with six different names are 
 actually all just the one exact same thing. I thought someone had told you."
 
-I am sure the experience is common to learning in many areas, but it does seem
-that the people doing the thinking at the intersections of math, 
-computer science, machine learning, statistics, econometrics, 
-operations research and other math and data-heavy fields take special pleasure 
-in needlessly tormenting the uninitiated with words. 
-The goal herein is to attack some specific types of needless, harmful 
-complexity with simple, intuitive explanations that reduce the cognitive 
-load of acquiring knowledge in these here intellectual parts, supplemented
-with detailed, obsessive explanations for the insatiable and the bad-at-parties.
+I am sure this is common to learning in many areas, but it does seem
+that the people doing the thinking, writing and teaching at the intersections 
+of math, computer science, machine learning, statistics, econometrics, 
+operations research, finance and other math and data-heavy fields take 
+special pleasure in needlessly tormenting the uninitiated with words. 
+The goal herein is to attack some specific types of particularly insidious 
+["terminological inexactitude"](http://en.wikipedia.org/wiki/Terminological_inexactitude) 
+faced by people learning in these areas with simple, intuitive explanations 
+that reduce the cognitive load of acquiring knowledge. 
+These will be supplemented, where appropriate, with detailed, obsessive explanations 
+for the insatiable and the bad-at-parties.
+
 So far, we have examples in these broadly defined areas:
 
 1. [Dead Ends](1-Dead_Ends/0-README.md): same or similar words, completely unrelated 
