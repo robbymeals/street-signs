@@ -1,0 +1,11 @@
+## Incomplete List of Sources of Shitty Confusing Terminology:
+- [Linear Algebra](http://en.wikipedia.org/wiki/Linear_algebra)
+- [Statistics](http://en.wikipedia.org/wiki/Statistics)
+- [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning)
+- [Artificial Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence)
+- [Management Science / Operations Research](http://en.wikipedia.org/wiki/Management_science)
+- [Econometrics and Economics](http://en.wikipedia.org/wiki/Econometrics)
+- [Software Development](http://en.wikipedia.org/wiki/Software_development)
+- [General Computer Science](http://en.wikipedia.org/wiki/Computer_science)
+- [General Mathematics](http://en.wikipedia.org/wiki/Mathematics)
+- [Other Social Sciences]()
