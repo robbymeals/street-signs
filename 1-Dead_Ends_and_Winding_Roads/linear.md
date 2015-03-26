@@ -1,26 +1,29 @@
 ## _Linear_
-_Linear_ is probably the grandaddy of all Winding Roads. It is everywhere
-and its actual meaning is often deceptively complex, depending on the context. 
+_Linear_ is the grandaddy of all Winding Roads. It is everywhere,
+and its actual meaning in any given context is often deceptively complex. 
 You probably were pretty confident in your grasp of the concept of a _line_,
 and the general idea of _linearity_, since you first learned geometry. But
-if you were really paying attention along the way, you probably lost that
-confidence at some point. Since all the various uses of the word are in 
-some way related in subtle ways that are in some cases the fundamental
+if you are really paying attention along the way, you will probably lose
+that confidence at some point. Since the various uses of the word 
+actually are all subtly related, and some of them are the fundamental
 conceptual building block of an entire branch of high-level mathematics, 
-this is a damned difficult example to write, if I am being completlely honest. 
+this should be pretty easy to write. Here goes.
 
 In likely its most confusing appearance for the uninitiated, it shows up in 
 one of the actual name of _linear_ algebra. It is ubiquitous in statistics,
 where it gets to mean a few different things and common in many other areas.
 The key thing to understand about the majority of the appearances of
-_linear_ in your studies is that __it is usually metaphorical in some way__.
-Usually, the word has been appropriated because the goal is to get you to i
+_linear_ is that __it is usually metaphorical__, as in "you know those _line_
+things you understand already? This is kind of like that, sort of."
+In most cases, the word has been appropriated not because there will actually
+be any lines anywhere, but because the goal is to get you to
 take the intuitive concept and behavior of a _line_ and using it as a bridge 
-to work with more complex concepts, structures or behaviour.
+to gain understanding of more complex concepts, structures or behaviour.
 
 ###_Linear_ Algebra
-If we were naming "_Linear_ Algebra" today, we would probably call it 
-"Vector Algebra" or "Vector Space Algebra", since that is what it is all about.
+Protip: If we were naming "_Linear_ Algebra" today, its name would be
+"Vector Algebra" or "Vector Space Algebra", since that is actually what it is 
+all about.
 It is called _linear_ algebra for two main reasons: first, because a book with 
 that title was written in 1882, before the whole vector space thing got fully 
 fleshed out (in 1888); and second, because a useful way to first grasp the 
