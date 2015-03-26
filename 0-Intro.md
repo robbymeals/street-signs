@@ -18,7 +18,7 @@ actually all just the one exact same thing. I thought someone had told you."
 I am sure this is common to learning in many areas, but it does seem
 that the people doing the thinking, writing and teaching at the intersections 
 of math, computer science, machine learning, statistics, econometrics, 
-operations research, finance and other math and data-heavy fields take 
+operations research, finance and other data-centric fields take 
 special pleasure in needlessly tormenting the uninitiated with words. 
 The goal herein is to attack some specific types of particularly insidious 
 ["terminological inexactitude"](http://en.wikipedia.org/wiki/Terminological_inexactitude) 
