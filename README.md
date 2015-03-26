@@ -3,7 +3,7 @@
 ## TOC
 - [Introduction](0-Intro.md)
 - [1: Dead Ends and Winding Roads](1-Dead_Ends_and_Winding_Roads/0-intro.md)
-- [2: Roundabouts and Lane Mergers](2-Roundabouts_and_Lanes_Merging/0-intro.md)
+- [2: Roundabouts and Lane Mergers](2-Roundabouts_and_Lane_Mergers/0-intro.md)
 - [3: Falling Rocks](3-Falling_Rocks/0-intro.md)
 
 ## FAQ
