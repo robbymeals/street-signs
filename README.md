@@ -41,6 +41,9 @@ or  emerging from their disciplinary silos,
 when, for instance, they first ask what the difference is between a logistic 
 regression and a maxent classifier.
 
+The final product here will likely be some beastly hybrid of a lexicon, 
+a cheat sheet, a pocket reference and a curiousity cabinet.
+
 In summary: More and more people are travelling on the roads 
 towards and between these disciplines,
 starting off with varying degrees of foundational knowledge, self-confidence
