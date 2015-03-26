@@ -40,16 +40,16 @@ explanations for the insatiable and the bad-at-parties.
 
 So far, we have examples in these broadly defined areas:
 
-1. [Dead Ends](1-Dead_Ends_and_Winding_Roads/0-intro.md): same or similar words, 
-   completely unrelated 
-1. [Winding Roads](1-Dead_Ends_and_Winding_Roads/0-intro.md): same words, uselessly 
-   or tangentially related
-1. [Roundabouts](2-Roundabouts_and_Lane_Mergers/0-intro.md): completely different words, same 
-   thing or highly related
-1. [Lane Mergers](2-Roundabouts_and_Lane_Mergers/0-intro.md): when two sets of terminology and
-   notation are badly or inconsistently unified 
+1. [Dead Ends](1-Dead_Ends_and_Winding_Detour/0-intro.md): 
+   same or similar words, completely unrelated 
+1. [Winding Detours](1-Dead_Ends_and_Winding_Detours/0-intro.md): 
+   same words, uselessly or tangentially related
+1. [Hectic Intersections](2-Hectic_Intersections_and_High_Speed_Merges/0-intro.md): 
+   completely different words, same thing or highly related
+1. [High Speed Merges](2-Hectic_Intersections_and_High_Speed_Merges/0-intro.md): 
+   when two sets of terminology and notation are badly or inconsistently unified 
 1. [Falling Rocks](3-Falling_Rocks/0-intro.md): common notation or terminology 
-   that just seems to comes out of nowhere
+   that seems to comes out of nowhere
 
 There will be definitely be significant overlap, cross-reference, subsumption,
 supersumption within and between the topics under those headings, but we have

@@ -4,7 +4,7 @@
 _Linear_: involving lines in some way 
 
 ### What it actually means:
-_Linear_ is the grandaddy of all Winding Roads. It is everywhere,
+_Linear_ is the grandaddy of all Winding Detours. It is everywhere,
 and its actual meaning in any given context is often deceptively complex. 
 You probably were pretty confident in your grasp of the concept of a _line_,
 and the general idea of _linearity_, since you first learned geometry. But
@@ -40,7 +40,7 @@ to have any geometric interpretation at all, but it is a useful metaphor.
 So just accept that like all metaphors, it will eventually fail you, let it 
 take you as far as it can, and abandon it when it is no longer useful.
 
-#### __Linear__ Functions, Models and Regression
+#### _Linear_ Functions, Models and Regression
 "_Linear_ Function"
 "_Linear_ Regression and _Linear_ Models"
 "_Linear_ in the..."

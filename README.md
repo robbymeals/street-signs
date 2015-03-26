@@ -2,8 +2,8 @@
 ## Avoiding the Lexical Hazards on the Journey <br> to Machine Learning Knowledge
 ## TOC
 - [Introduction](0-Intro.md)
-- [1: Dead Ends and Winding Roads](1-Dead_Ends_and_Winding_Roads/0-intro.md)
-- [2: Roundabouts and Lane Mergers](2-Roundabouts_and_Lane_Mergers/0-intro.md)
+- [1: Dead Ends and Winding Detours](1-Dead_Ends_and_Winding_Detours/0-intro.md)
+- [2: Hectic Intersections and High Speed Merges](2-Hectic_Intersections_and_High_Speed_Merges/0-intro.md)
 - [3: Falling Rocks](3-Falling_Rocks/0-intro.md)
 
 ## FAQ
