@@ -54,8 +54,8 @@ supersumption within and between the topics under those headings, but we have
 to start somewhere and we were able to shove these into the overarching 
 metaphor with only a lot of awkwardness. Some Dead Ends are also Winding Roads, 
 some Roundabouts reference Dead Ends and Winding Roads, etc, etc, etc.
-The product of these efforts will likely be some beastly hybrid of a lexicon, 
-a cheat sheet, a pocket reference and a curiousity cabinet.
+The product of these efforts will likely be some beastly hybrid of a glossary, 
+an etymology, a cheat sheet, a pocket reference and a curiousity cabinet.
 There exists a vague vision of a tiny little orange book that can be handed to 
 people embarking on their journey or emerging from their disciplinary silos, 
 when, for instance, they first ask what the difference is between a logistic 
