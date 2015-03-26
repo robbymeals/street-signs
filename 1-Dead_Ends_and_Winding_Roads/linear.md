@@ -3,7 +3,7 @@ _Linear_ is the grandaddy of all Winding Roads. It is everywhere,
 and its actual meaning in any given context is often deceptively complex. 
 You probably were pretty confident in your grasp of the concept of a _line_,
 and the general idea of _linearity_, since you first learned geometry. But
-if you are really paying attention along the way, you will probably lose
+if you are really paying attention, you will probably lose
 that confidence at some point. Since the various uses of the word 
 actually are all subtly related, and some of them are the fundamental
 conceptual building block of an entire branch of high-level mathematics, 
