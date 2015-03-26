@@ -1,6 +1,7 @@
 ## Incomplete List of Sources of Shitty Confusing Terminology:
 - [Linear Algebra](http://en.wikipedia.org/wiki/Linear_algebra)
 - [Statistics](http://en.wikipedia.org/wiki/Statistics)
+- [Geospatial Statistics](http://en.wikipedia.org/wiki/Geostatistics)
 - [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning)
 - [Artificial Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence)
 - [Information Theory](http://en.wikipedia.org/wiki/Information_theory)
