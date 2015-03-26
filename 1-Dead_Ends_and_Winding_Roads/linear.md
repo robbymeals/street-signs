@@ -1,4 +1,9 @@
 ## _Linear_
+
+### What you think it means:
+_Linear_: involving lines in some way 
+
+### What it actually means:
 _Linear_ is the grandaddy of all Winding Roads. It is everywhere,
 and its actual meaning in any given context is often deceptively complex. 
 You probably were pretty confident in your grasp of the concept of a _line_,
@@ -20,7 +25,8 @@ be any lines anywhere, but because the goal is to get you to
 take the intuitive concept and behavior of a _line_ and using it as a bridge 
 to gain understanding of more complex concepts, structures or behaviour.
 
-###_Linear_ Algebra
+### Excrutiating Details
+####_Linear_ Algebra
 Protip: If we were naming "_Linear_ Algebra" today, its name would be
 "Vector Algebra" or "Vector Space Algebra", since that is actually what it is 
 all about.
@@ -34,10 +40,10 @@ to have any geometric interpretation at all, but it is a useful metaphor.
 So just accept that like all metaphors, it will eventually fail you, let it 
 take you as far as it can, and abandon it when it is no longer useful.
 
-### __Linear__ Function, Models and Regression
+#### __Linear__ Functions, Models and Regression
 "_Linear_ Function"
 "_Linear_ Regression and _Linear_ Models"
 "_Linear_ in the..."
 
-### _Linear_ Programming
+#### _Linear_ Programming
 "_Linear_ Programming"
