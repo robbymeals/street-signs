@@ -86,5 +86,5 @@ they crumble beneath us. Some of these issues are getting better and
 inter-disciplinary cooperation, collaboration and standardization is becoming
 more and more common. But there are still a lot of shitty roads getting built
 even as we speak. So we may never be rid of all these pedogical hazards. 
-But good lord, people, you can at least post some signs.
+But good lord, people, we can at least post some signs.
 
