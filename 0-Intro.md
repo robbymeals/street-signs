@@ -38,21 +38,22 @@ explanations for the insatiable and the bad-at-parties.
 
 So far, we have examples in these broadly defined areas:
 
-1. [Dead Ends](1-Dead_Ends/0-intro.md): same or similar words, 
+1. [Dead Ends](1-Dead_Ends_and_Winding_Roads/0-intro.md): same or similar words, 
    completely unrelated 
-1. [Winding Roads](2-Winding_Roads/0-intro.md): same words, uselessly 
+1. [Winding Roads](1-Dead_Ends_and_Winding_Roads/0-intro.md): same words, uselessly 
    or tangentially related
-1. [Roundabouts](3-Roundabouts/0-intro.md): completely different words, same 
+1. [Roundabouts](2-Roundabouts_and_Lane_Mergers/0-intro.md): completely different words, same 
    thing or highly related
-1. [Lane Mergers](4-Lane_Mergers/0-intro.md): when two sets of terminology and
+1. [Lane Mergers](2-Roundabouts_and_Lane_Mergers/0-intro.md): when two sets of terminology and
    notation are badly or inconsistently unified 
-1. [Falling Rocks](5-Falling_Rocks/0-intro.md): common notation or terminology 
+1. [Falling Rocks](3-Falling_Rocks/0-intro.md): common notation or terminology 
    that just seems to comes out of nowhere
 
 There will be definitely be significant overlap, cross-reference, subsumption,
 supersumption within and between the topics under those headings, but we have
 to start somewhere and we were able to shove these into the overarching 
-metaphor with only a lot of awkwardness.
+metaphor with only a lot of awkwardness. Some Dead Ends are also Winding Roads, 
+some Roundabouts reference Dead Ends and Winding Roads, etc, etc, etc.
 The product of these efforts will likely be some beastly hybrid of a lexicon, 
 a cheat sheet, a pocket reference and a curiousity cabinet.
 There exists a vague vision of a tiny little orange book that can be handed to 

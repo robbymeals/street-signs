@@ -1,12 +1,10 @@
 # Street Signs:
 ## Helping You Avoid the Hazards <br> on the Road to Machine Learning Knowledge
-## Table of Contents
+## TOC
 - [Introduction](0-Intro.md)
-- [Chapter 1: Dead Ends](1-Dead_Ends/0-intro.md)
-- [Chapter 2: Winding Roads](2-Winding_Roads/0-intro.md)
-- [Chapter 3: Roundabouts](3-Roundabouts/0-intro.md)
-- [Chapter 4: Lane Mergers](4-Lane_Mergers/0-intro.md)
-- [Chapter 5: Falling Rocks](5-Falling_Rocks/0-intro.md)
+- [1: Dead Ends and Winding Roads](1-Dead_Ends_and_Winding_Roads/0-intro.md)
+- [2: Roundabouts and Lane Mergers](2-Roundabouts_and_Lanes_Merging/0-intro.md)
+- [3: Falling Rocks](3-Falling_Rocks/0-intro.md)
 
 ## FAQ
 ### What is this thing?

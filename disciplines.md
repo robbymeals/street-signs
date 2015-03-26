@@ -3,6 +3,8 @@
 - [Statistics](http://en.wikipedia.org/wiki/Statistics)
 - [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning)
 - [Artificial Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence)
+- [Information Theory](http://en.wikipedia.org/wiki/Information_theory)
+- [Signals Processing](http://en.wikipedia.org/wiki/Signal_processing)
 - [Management Science / Operations Research](http://en.wikipedia.org/wiki/Management_science)
 - [Econometrics and Economics](http://en.wikipedia.org/wiki/Econometrics)
 - [Software Development](http://en.wikipedia.org/wiki/Software_development)
