@@ -1,5 +1,5 @@
 # Street Signs:
-## Avoiding the Hazards on the Journey <br> to Machine Learning Knowledge
+## Avoiding the Linguistic Hazards on the Journey <br> to Machine Learning Knowledge
 ## TOC
 - [Introduction](0-Intro.md)
 - [1: Dead Ends and Winding Roads](1-Dead_Ends_and_Winding_Roads/0-intro.md)
