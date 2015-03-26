@@ -15,10 +15,19 @@ far more complicated, when..."
 "Oh. Right. Sorry. Yes, those five things with six different names are 
 actually all just the one exact same thing. I thought someone had told you."
 
+Becoming proficient in machine learning requires the acquisition of a lot
+of foundational knowledge, from a whole lot of areas, most especially linear
+algebra, statistics and general computer science. On top of that, so much work
+that is called "machine learning" or that machine learning techniques are
+derived from is done in disciplines and professions that are at most 
+tangentially related to one of those original three areas.
+All this interdisciplinary intermingling and cross fertilization is one
+of the things that makes machine learning such an exciting area to work in.
+But it also sure as hell makes things more confusing.
 I am sure this is common to learning in many areas, but it does seem
 that the people doing the thinking, writing and teaching at the intersections 
 of math, computer science, machine learning, statistics, econometrics, 
-operations research, finance and other data-centric fields take 
+operations research, finance and other data-centric fields that take 
 special pleasure in needlessly tormenting the uninitiated with words. 
 The goal herein is to attack some specific types of particularly insidious 
 ["terminological inexactitude"](http://en.wikipedia.org/wiki/Terminological_inexactitude) 
@@ -44,7 +53,6 @@ There will be definitely be significant overlap, cross-reference, subsumption,
 supersumption within and between the topics under those headings, but we have
 to start somewhere and we were able to shove these into the overarching 
 metaphor with only a lot of awkwardness.
-
 The product of these efforts will likely be some beastly hybrid of a lexicon, 
 a cheat sheet, a pocket reference and a curiousity cabinet.
 There exists a vague vision of a tiny little orange book that can be handed to 
