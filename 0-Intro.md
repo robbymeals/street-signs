@@ -8,12 +8,14 @@
 for now."
 
 "Yes, actually. There IS a very interesting explanation why those things share
-the same name. You see, on May 7th, 1932, Claude Shannon and R. A. Fisher
-were playing a game of their own invention, loosely based on chess but 
-far more complicated, when..." 
+the same name. You see, on May 7th, 1932, in a sub-basement at Bell Labs,
+Claude Shannon and Alan Turing were playing a game of their own invention, 
+loosely based on chess but far more complicated, when Von Neuman walked in..." 
 
 "Oh. Right. Sorry. Yes, those five things with six different names are 
 actually all just the one exact same thing. I thought someone had told you."
+
+"Yeah, see, it's because Fisher was kind of a dick."
 
 Becoming proficient in machine learning requires the acquisition of a lot
 of foundational knowledge, from a whole lot of areas, most especially linear
