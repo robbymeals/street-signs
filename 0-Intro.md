@@ -40,7 +40,7 @@ explanations for the insatiable and the bad-at-parties.
 
 So far, we have examples in these broadly defined areas:
 
-1. [Dead Ends](1-Dead_Ends_and_Winding_Detour/0-intro.md): 
+1. [Dead Ends](1-Dead_Ends_and_Winding_Detours/0-intro.md): 
    same or similar words, completely unrelated 
 1. [Winding Detours](1-Dead_Ends_and_Winding_Detours/0-intro.md): 
    same words, uselessly or tangentially related
