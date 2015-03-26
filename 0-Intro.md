@@ -1,5 +1,5 @@
 # Street Signs:
-### Avoid the Linguistic Hazards on The Journey <br> to Machine Learning Knowledge
+### Avoid the Lexical Hazards on The Journey <br> to Machine Learning Knowledge
 <hr>
 
 "Ah. No, no. Same words, completely unrelated."
