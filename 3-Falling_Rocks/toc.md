@@ -1,4 +1,3 @@
-<img src="../img/falling_rocks.jpg" style="width: 200px;"/>
 1. [deep, learning, neural, nets](deep_learning_neural_nets.md)
 1. [eigenthings](eigenthings.md)
 1. [kriging](kriging.md)

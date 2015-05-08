@@ -1,5 +1,3 @@
-<img src="../img/mergers.jpg" style="width: 200px;"/>
-<img src="../img/intersection.jpg" style="width: 200px;"/>
 1. [econometrics](econometrics.md)
 1. [estimation, training, fitting, learning](estimation_training_fitting_learning.md)
 1. [lassos, ridges, regularizations](lassos_ridges_regularizations.md)
