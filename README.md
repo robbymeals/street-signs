@@ -1,10 +1,10 @@
 # Street Signs:
 ## Avoiding the Lexical Hazards on the Journey <br> to Machine Learning Knowledge
 ## TOC
-- [Introduction](0-Intro.md)
-- [1: Dead Ends and Winding Detours](1-Dead_Ends_and_Winding_Detours/0-intro.md)
-- [2: Hectic Intersections and High Speed Merges](2-Hectic_Intersections_and_High_Speed_Merges/0-intro.md)
-- [3: Falling Rocks](3-Falling_Rocks/0-intro.md)
+- [Introduction](0-Intro/README.md)
+- [1: Dead Ends and Winding Detours](1-Dead_Ends_and_Winding_Detours/README.md)
+- [2: Hectic Intersections and High Speed Merges](2-Hectic_Intersections_and_High_Speed_Merges/README.md)
+- [3: Falling Rocks](3-Falling_Rocks/README.md)
 
 ## FAQ
 ### What is this thing?
