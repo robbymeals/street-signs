@@ -13,7 +13,7 @@ Claude Shannon and Alan Turing were playing a game of their own invention,
 loosely based on chess but far more complicated, when Von Neuman walked in..." 
 
 "Oh. Right. Sorry. Yes, those five things with six different names are 
-actually all just the one exact same thing. I thought someone had told you."
+actually all just the one exact same thing."
 
 "Yeah, see, it's because Fisher was kind of a dick."
 
